@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: Strategic Human Resource Management [Compensation Overview and SAS]
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-660-strategic-hr-management-spring-2003/99d69154e4deec715d25420abbc6a591_sas.pdf
+file_type: application/pdf
+resourcetype: Document
+title: sas.pdf
+uid: 99d69154-e4de-ec71-5d25-420abbc6a591
+---

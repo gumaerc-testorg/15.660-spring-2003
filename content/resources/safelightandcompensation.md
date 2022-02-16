@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Safelight Autoglass [Piece Rates and Safelight]
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-660-strategic-hr-management-spring-2003/826705483f4e8194734c44eeda67e482_safelightandcompensation.pdf
+file: /media/courses/15-660-strategic-hr-management-spring-2003/826705483f4e8194734c44eeda67e482_safelightandcompensation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: safelightandcompensation.pdf
 uid: 82670548-3f4e-8194-734c-44eeda67e482

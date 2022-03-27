@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b2b3608c-b2c6-f2b1-ad22-d477d2704b89
 resourcetype: Document
 title: servicemaster.pdf
 uid: f5989b82-7cc0-7d98-a223-eb836eb4e8a7

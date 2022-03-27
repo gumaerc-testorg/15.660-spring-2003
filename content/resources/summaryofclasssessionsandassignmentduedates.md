@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0cb3c83b-db54-e91d-1c3a-cf61b974a123
 resourcetype: Document
 title: summaryofclasssessionsandassignmentduedates.pdf
 uid: d00b6725-e059-5265-ccb8-649e4140d3c3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b2b3608c-b2c6-f2b1-ad22-d477d2704b89
 resourcetype: Document
 title: jsi.pdf
 uid: d24e131c-7fbe-632e-7fe2-9d73000252ec

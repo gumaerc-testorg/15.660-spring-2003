@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Strategic Human Resource Management[Summary: Last Class]'
-file: /media/courses/15-660-strategic-hr-management-spring-2003/cddc827031a73a1cf191d35fb3529650_LastClass.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/cddc827031a73a1cf191d35fb3529650_LastClass.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: LastClass.pdf
 uid: cddc8270-31a7-3a1c-f191-d35fb3529650
 ---
+Strategic Human Resource Management[Summary: Last Class]
+

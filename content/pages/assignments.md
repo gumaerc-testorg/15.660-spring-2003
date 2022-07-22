@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0cb3c83b-db54-e91d-1c3a-cf61b974a123
 ---
@@ -198,4 +202,4 @@ Case:** Nordstrom Department Store. Center for Human Resources, Wharton School o
 
 1.  Reflecting on the companies we have studied in this course, as well as your own work experience, what lessons do you draw about the respective roles that general managers and the HR function in organizations should play in the management of human resources?
 
-Summary of Class Sessions and Assignment Due Dates ([PDF]({{< baseurl >}}/resources/summaryofclasssessionsandassignmentduedates))
+Summary of Class Sessions and Assignment Due Dates ({{% resource_link d00b6725-e059-5265-ccb8-649e4140d3c3 "PDF" %}})

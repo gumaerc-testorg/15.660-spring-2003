@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/f3b6d04b92cc67cf0b0710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: diversity.pdf
 uid: f3b6d04b-92cc-67cf-0b07-1076602efcc5
 ---
 Gender Differences: the Evidence [Diversity and Part-Time Partner]
-

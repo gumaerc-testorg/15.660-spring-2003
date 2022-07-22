@@ -6,6 +6,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/8d7a9cbeec6e85632f6e2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MorganStanley.pdf
 uid: 8d7a9cbe-ec6e-8563-2f6e-2fa74f08a958
 ---
 Strategic Human Resource Management [Performance Appraisal and Morgan Stanley]
-

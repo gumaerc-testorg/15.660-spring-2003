@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/d00b6725e0595265ccb864
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: summaryofclasssessionsandassignmentduedates.pdf
 uid: d00b6725-e059-5265-ccb8-649e4140d3c3
 ---
 Summary of Class Sessions and Assignment Due Dates
-

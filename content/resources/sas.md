@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/99d69154e4deec715d2542
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sas.pdf
 uid: 99d69154-e4de-ec71-5d25-420abbc6a591
 ---
 Strategic Human Resource Management [Compensation Overview and SAS]
-

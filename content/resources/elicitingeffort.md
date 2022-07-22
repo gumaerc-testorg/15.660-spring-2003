@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/c4709278cfd208166934c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ElicitingEffort.pdf
 uid: c4709278-cfd2-0816-6934-c452ab503f6a
 ---
 Eliciting Effort [Teams and Slade]
-

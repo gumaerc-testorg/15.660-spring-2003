@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/09b4ba75506695dfbad9b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HRFunction.pdf
 uid: 09b4ba75-5066-95df-bad9-b1539ea88c74
 ---
 Strategic Human Resource Management [HR Function and AES]
-

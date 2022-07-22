@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/f5989b827cc07d98a223eb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: servicemaster.pdf
 uid: f5989b82-7cc0-7d98-a223-eb836eb4e8a7
 ---
 Strategic Human Resource Management [Training and ServiceMaster]
-

@@ -5,6 +5,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/cddc827031a73a1cf191d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: LastClass.pdf
 uid: cddc8270-31a7-3a1c-f191-d35fb3529650
 ---
 Strategic Human Resource Management[Summary: Last Class]
-

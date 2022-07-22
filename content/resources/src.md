@@ -6,6 +6,7 @@ file: /courses/15-660-strategic-hr-management-spring-2003/77bb49795e761094a9ff41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: src.pdf
 uid: 77bb4979-5e76-1094-a9ff-412e28ee8bc8
 ---
 Springfield ReManufacturing Corporation & Open Book Management [Open Book and Jack Stack]
-

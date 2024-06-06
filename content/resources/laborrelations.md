@@ -2,6 +2,7 @@
 content_type: resource
 description: Strategic Human Resource Management [Unions and Eastern]
 file: /courses/15-660-strategic-hr-management-spring-2003/2e3ea48ecbf4b8b1d9caaf28c125f229_laborrelations.pdf
+file_size: 643979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

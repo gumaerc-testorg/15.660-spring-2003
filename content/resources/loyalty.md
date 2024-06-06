@@ -2,6 +2,7 @@
 content_type: resource
 description: Strategic Human Resource Management [Service Management and Harrah's]
 file: /courses/15-660-strategic-hr-management-spring-2003/7a86b481185a8f300ed01be269a5bf79_loyalty.pdf
+file_size: 174287
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

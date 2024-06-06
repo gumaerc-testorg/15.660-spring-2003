@@ -2,6 +2,7 @@
 content_type: resource
 description: Safelight Autoglass [Piece Rates and Safelight]
 file: /courses/15-660-strategic-hr-management-spring-2003/826705483f4e8194734c44eeda67e482_safelightandcompensation.pdf
+file_size: 205895
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

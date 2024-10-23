@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Non-Profits and JSI]
-file: /courses/15-660-strategic-hr-management-spring-2003/d24e131c7fbe632e7fe29d73000252ec_jsi.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/d24e131c7fbe632e7fe29d73000252ec_jsi.pdf
 file_size: 236392
 file_type: application/pdf
 learning_resource_types:

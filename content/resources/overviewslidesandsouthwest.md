@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Overview and Southwest]
-file: /courses/15-660-strategic-hr-management-spring-2003/8b6ef57b6aca70754d3e4d606e2cd623_OverviewSlidesandSouthwest.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/8b6ef57b6aca70754d3e4d606e2cd623_OverviewSlidesandSouthwest.pdf
 file_size: 493364
 file_type: application/pdf
 learning_resource_types:

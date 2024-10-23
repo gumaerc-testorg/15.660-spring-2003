@@ -2,7 +2,7 @@
 content_type: resource
 description: Springfield ReManufacturing Corporation & Open Book Management [Open
   Book and Jack Stack]
-file: /courses/15-660-strategic-hr-management-spring-2003/77bb49795e761094a9ff412e28ee8bc8_src.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/77bb49795e761094a9ff412e28ee8bc8_src.pdf
 file_size: 240095
 file_type: application/pdf
 learning_resource_types:

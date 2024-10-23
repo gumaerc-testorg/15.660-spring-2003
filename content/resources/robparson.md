@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Performance Management and Rob Parson]
-file: /courses/15-660-strategic-hr-management-spring-2003/e175440c1f06f1f4f95ad615a5f75368_RobParson.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/e175440c1f06f1f4f95ad615a5f75368_RobParson.pdf
 file_size: 258645
 file_type: application/pdf
 learning_resource_types:

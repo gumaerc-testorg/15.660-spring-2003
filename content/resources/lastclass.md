@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Strategic Human Resource Management[Summary: Last Class]'
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/cddc827031a73a1cf191d35fb3529650_LastClass.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/cddc827031a73a1cf191d35fb3529650_LastClass.pdf
 file_size: 378548
 file_type: application/pdf
 learning_resource_types:

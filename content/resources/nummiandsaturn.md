@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [HPWO and NUMMI]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/8bc9d497dc68c0d3264368c29ef0f3d1_nummiandsaturn.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/8bc9d497dc68c0d3264368c29ef0f3d1_nummiandsaturn.pdf
 file_size: 1003924
 file_type: application/pdf
 learning_resource_types:

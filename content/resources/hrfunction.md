@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [HR Function and AES]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/09b4ba75506695dfbad9b1539ea88c74_HRFunction.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/09b4ba75506695dfbad9b1539ea88c74_HRFunction.pdf
 file_size: 284450
 file_type: application/pdf
 learning_resource_types:

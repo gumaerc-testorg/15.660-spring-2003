@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Gender Differences: the Evidence [Diversity and Part-Time Partner]'
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/f3b6d04b92cc67cf0b071076602efcc5_diversity.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/f3b6d04b92cc67cf0b071076602efcc5_diversity.pdf
 file_size: 323419
 file_type: application/pdf
 learning_resource_types:

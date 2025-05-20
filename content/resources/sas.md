@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Compensation Overview and SAS]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/99d69154e4deec715d25420abbc6a591_sas.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/99d69154e4deec715d25420abbc6a591_sas.pdf
 file_size: 450696
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Alignment and Portman]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/0a28c2cf2f89957200f949e8131ab678_Portman.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/0a28c2cf2f89957200f949e8131ab678_Portman.pdf
 file_size: 320973
 file_type: application/pdf
 learning_resource_types:

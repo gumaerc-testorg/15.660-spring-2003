@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eliciting Effort [Teams and Slade]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/c4709278cfd208166934c452ab503f6a_ElicitingEffort.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/c4709278cfd208166934c452ab503f6a_ElicitingEffort.pdf
 file_size: 32302
 file_type: application/pdf
 learning_resource_types:

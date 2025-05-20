@@ -2,7 +2,7 @@
 content_type: resource
 description: Strategic Human Resource Management [Performance Appraisal and Morgan
   Stanley]
-file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/8d7a9cbeec6e85632f6e2fa74f08a958_MorganStanley.pdf
+file: /courses/15-660-strategic-hr-management-spring-2003/8d7a9cbeec6e85632f6e2fa74f08a958_MorganStanley.pdf
 file_size: 373892
 file_type: application/pdf
 learning_resource_types:

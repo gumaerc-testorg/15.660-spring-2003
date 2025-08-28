@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Culture and Nordstrom]
-file: /courses/15-660-strategic-hr-management-spring-2003/9d145ff91804e1a0d8421ecaee864fa8_Nordstrom.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/9d145ff91804e1a0d8421ecaee864fa8_Nordstrom.pdf
 file_size: 297547
 file_type: application/pdf
 learning_resource_types:

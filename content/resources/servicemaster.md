@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Human Resource Management [Training and ServiceMaster]
-file: /courses/15-660-strategic-hr-management-spring-2003/f5989b827cc07d98a223eb836eb4e8a7_servicemaster.pdf
+file: /ol-ocw-studio-app/courses/15-660-strategic-hr-management-spring-2003/f5989b827cc07d98a223eb836eb4e8a7_servicemaster.pdf
 file_size: 485443
 file_type: application/pdf
 learning_resource_types:
